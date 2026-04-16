@@ -6,7 +6,6 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:modelhandling/screen/login_screen.dart';
 
 
-//skibiddy
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
